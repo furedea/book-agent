@@ -33,7 +33,7 @@
                 └── book2agent.md
 ```
 
-3. （推奨）[Zennの記事](https://zenn.dev/link/to/your/article)を参考に，ObsidianとKindle HighlightsやMCP Toolsプラグインをセットアップすると，よりスムーズなワークフローが実現できる．
+3. （推奨）[Zennの記事](https://zenn.dev/furedea/articles/53b5117b389454)を参考に，ObsidianとKindle HighlightsやMCP Toolsプラグインをセットアップすると，よりスムーズなワークフローが実現できる．
 
 ## 使い方
 

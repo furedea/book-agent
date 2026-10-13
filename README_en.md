@@ -33,7 +33,7 @@ A custom slash command for Claude Code that interactively generates Sub Agent de
                 └── book2agent.md
 ```
     
-3.  (Recommended) For a smoother workflow, consider setting up Obsidian with plugins like Kindle Highlights and MCP Tools by following the [Zenn article](https://zenn.dev/link/to/your/article).
+3.  (Recommended) For a smoother workflow, consider setting up Obsidian with plugins like Kindle Highlights and MCP Tools by following the [Zenn article](https://zenn.dev/furedea/articles/53b5117b389454).
 
 ## Usage
 

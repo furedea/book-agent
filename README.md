@@ -3,8 +3,8 @@
 > **Language**
 > **[English Version](README_en.md)** / **日本語版 README** (このページ)
 
-> [!Warning]
-> テスト版なので大幅な変更の可能性があります．
+> [!Note]
+> 2025年8月時点のスナップショットであり，現在は更新していません．
 
 **関連記事**
 **[技術書知識を即戦力化！Sub Agent化から設計支援・レビューまでの最短ワークフロー](https://zenn.dev/furedea/articles/53b5117b389454)** - Zenn記事

@@ -3,8 +3,8 @@
 > **Language**
 > **English Version** (this page) / **[日本語版 README](README.md)**
 
-> [!Warning]
-> This is a test version and is subject to major changes.
+> [!Note]
+> This is a snapshot as of August 2025 and is no longer being updated.
 
 **Related Article**
 **[Instantly Power Up Your Tech Book Knowledge! The Shortest Workflow from Sub Agent Creation to Design Support and Reviews](https://zenn.dev/furedea/articles/53b5117b389454)** - Zenn Article (Japanese)

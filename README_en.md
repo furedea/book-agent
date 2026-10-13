@@ -23,7 +23,7 @@ A custom slash command for Claude Code that interactively generates Sub Agent de
 ## Installation & Setup
 
 1.  Clone or download this repository.
-2.  Copy the entire `book-agent` directory from this repository into your project's `.claude/commands/` directory.
+2.  Copy the entire `.claude/commands/book-agent/` directory from this repository into your project's `.claude/commands/` directory.
 
 ```
     <your-project>

@@ -3,8 +3,8 @@
 > **Language**
 > **[English Version](README_en.md)** / **日本語版 README** (このページ)
 
-> [!Warning]
-> テスト版なので大幅な変更の可能性があります．
+> [!Note]
+> 2025年8月時点のスナップショットであり，現在は更新していません．
 
 **関連記事**
 **[技術書知識を即戦力化！Sub Agent化から設計支援・レビューまでの最短ワークフロー](https://zenn.dev/furedea/articles/53b5117b389454)** - Zenn記事
@@ -23,7 +23,7 @@
 ## インストール & セットアップ
 
 1. このリポジトリをクローンするかダウンロード．
-2. プロジェクトの`.claude/commands/`ディレクトリ内にこのリポジトリの`book-agent`ディレクトリを丸ごとコピー．
+2. このリポジトリの`.claude/commands/book-agent/`ディレクトリを，プロジェクトの`.claude/commands/`ディレクトリ内に丸ごとコピー．
 
 ```
     <あなたのプロジェクト>
@@ -33,7 +33,7 @@
                 └── book2agent.md
 ```
 
-3. （推奨）[Zennの記事](https://zenn.dev/link/to/your/article)を参考に，ObsidianとKindle HighlightsやMCP Toolsプラグインをセットアップすると，よりスムーズなワークフローが実現できる．
+3. （推奨）[Zennの記事](https://zenn.dev/furedea/articles/53b5117b389454)を参考に，ObsidianとKindle HighlightsやMCP Toolsプラグインをセットアップすると，よりスムーズなワークフローが実現できる．
 
 ## 使い方
 

@@ -3,8 +3,8 @@
 > **Language**
 > **English Version** (this page) / **[日本語版 README](README.md)**
 
-> [!Warning]
-> This is a test version and is subject to major changes.
+> [!Note]
+> This is a snapshot as of August 2025 and is no longer being updated.
 
 **Related Article**
 **[Instantly Power Up Your Tech Book Knowledge! The Shortest Workflow from Sub Agent Creation to Design Support and Reviews](https://zenn.dev/furedea/articles/53b5117b389454)** - Zenn Article (Japanese)
@@ -23,7 +23,7 @@ A custom slash command for Claude Code that interactively generates Sub Agent de
 ## Installation & Setup
 
 1.  Clone or download this repository.
-2.  Copy the entire `book-agent` directory from this repository into your project's `.claude/commands/` directory.
+2.  Copy the entire `.claude/commands/book-agent/` directory from this repository into your project's `.claude/commands/` directory.
 
 ```
     <your-project>
@@ -33,7 +33,7 @@ A custom slash command for Claude Code that interactively generates Sub Agent de
                 └── book2agent.md
 ```
     
-3.  (Recommended) For a smoother workflow, consider setting up Obsidian with plugins like Kindle Highlights and MCP Tools by following the [Zenn article](https://zenn.dev/link/to/your/article).
+3.  (Recommended) For a smoother workflow, consider setting up Obsidian with plugins like Kindle Highlights and MCP Tools by following the [Zenn article](https://zenn.dev/furedea/articles/53b5117b389454).
 
 ## Usage
 
